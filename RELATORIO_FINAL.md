@@ -21,10 +21,10 @@ Abaixo estão os indicadores coletados nas auditorias do Google Lighthouse (faix
 Auditoria 1 (Desktop / Execução Base)
 Métrica | Nota Inicial (Antes) | Nota Esperada (Após Correções) | Classificação Atual |
 
-Performance | 79 | 92+ |  Atenção (50–89)[cite: 1] |
-Accessibility | 93 | 98+ |  Aprovado (90–100)[cite: 1] |
-Best Practices | 96 | 100 |  Aprovado (90–100)[cite: 1] |
-SEO | 82[cite: 1] | 95+ |  Atenção (50–89)[cite: 1] |
+Performance | 79 | 92+ |  Atenção (50–89) |
+Accessibility | 93 | 98+ |  Aprovado (90–100) |
+Best Practices | 96 | 100 |  Aprovado (90–100) |
+SEO | 82| 95+ |  Atenção (50–89) |
 
 Auditoria 2 (Mobile / Execução Secundária)
 Métrica | Nota Inicial (Antes) | Nota Esperada (Após Correções) | Classificação Atual |
